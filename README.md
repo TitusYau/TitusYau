@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitusYau
 - 👀 I’m interested in neuroscience and the development of brain-computer interfaces. 
-- 🌱 I’m currently learning/practicing C++, Web Design (HTML, CSS, Javascript, Node), Java and Python
+- 🌱 I’m currently learning/practicing C/C++, Java, Python and MATLAB, as well as signal processing.
 - 📫 How to reach me @tituschunyau@gmail.com
 
 <!---
