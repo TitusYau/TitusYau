@@ -1,8 +1,8 @@
-###Titus Yau
-###Electrical & Computer Engineer
+### Titus Yau
+### Electrical & Computer Engineer
 Welcome to my GitHub profile. I'm a passionate developer and electrical & computer engineer specializing in signal processing, with a strong interest in brain-computer interfaces.
 
-##About Me
+## About Me
 - 💻 Majoring in Computer Engineering at the University of Illinois Urbana-Champaign (Expected Graduation Year 2028)
 -  🧑‍🔬 Minoring in Computational Science and Engineering
 -  Learning/Experience in signal processing and machine learning
